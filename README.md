@@ -1,2 +1,3 @@
 # statusBar
 状态栏设置
+本demo设置如何在使用nvigationcontroller的情况下在vc隐藏状态栏
